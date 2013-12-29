@@ -1,5 +1,5 @@
 % preliminaries %
-cepath='~/Downloads/compecon2011'
+cepath= <path>
 path([cepath '/CEtools'],path)
 
 % set model parameters %
